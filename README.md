@@ -12,7 +12,7 @@ go get github.com/nothing-but-josh/waistband
 
 2. Enable Go Modules in `$GOPATH`:
 ```shell
-export GO11MODULES=on
+export GO111MODULES=on
 ```
 
 3. Change into the directory:
